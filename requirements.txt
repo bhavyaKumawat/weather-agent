@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+pyowm
+langchain-community
+langgraph-checkpoint-cosmosdb
+chainlit
+aiosqlite
